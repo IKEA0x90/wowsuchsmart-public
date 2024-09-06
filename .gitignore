@@ -1,0 +1,6 @@
+*.png
+*.json
+*.mp3
+*.pyc
+audio
+audio/queue
